@@ -1,3 +1,6 @@
 # beautiful-login-page-android-kotlin
 
-<img src=“https://github.com/KrisKasprzak/ILI9341_t3_controls”>
+<p align="center">
+  <img src="https://picsum.photos/200/300" title="hover text">
+  <img src="https://picsum.photos/200/300" alt="accessibility text">
+</p>
